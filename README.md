@@ -5,3 +5,7 @@ the [100 Days of Code: The Complete Python Pro Bootcamp for 2023](https://www.ud
 course.
 
 **Start date**: *2023-10-05*
+
+| Day number | Date       | Comment                                                    |
+|------------|------------|------------------------------------------------------------|
+| 1          | 2023-10-05 | Beginner - Working with Variables in Python to Manage Data |
