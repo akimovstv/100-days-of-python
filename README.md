@@ -6,6 +6,7 @@ course.
 
 **Start date**: *2023-10-05*
 
-| Day number | Date       | Comment                                                    |
-|------------|------------|------------------------------------------------------------|
-| 1          | 2023-10-05 | Beginner - Working with Variables in Python to Manage Data |
+| Day number | Date       | Comment                                                           |
+|------------|------------|-------------------------------------------------------------------|
+| 1          | 2023-10-05 | Beginner - Working with Variables in Python to Manage Data        |
+| 2          | 2023-10-06 | Beginner - Understanding Data Types and How to Manipulate Strings |
